@@ -59,3 +59,10 @@ Contributors
 * Abram Hindle
 * Larin Chen
 * Vinson Lai
+
+References
+=============
+
+Used http://victorblog.com/html5-canvas-gradient-creator/ to create my gradient.
+
+Used code examples provided in lecture slides by Dr. Hindle: https://github.com/abramhindle/WebSocketsExamples/blob/master/chat.py
